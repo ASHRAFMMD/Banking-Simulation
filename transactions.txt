@@ -1,0 +1,13 @@
+[2025-10-15 17:56:19] 🟢 New account created: Naveen (Account No: 2005) with balance ₹6000.0
+[2025-10-15 17:57:03] 💰 Deposited ₹1500.0 into Account No: 1001
+[2025-10-15 17:57:32] 💰 Deposited ₹4600.0 into Account No: 1001
+[2025-10-15 18:25:04] 💸 ₹2000.0 transferred from Account 1001 to Account 2005
+[2025-10-15 20:05:30] 💰 Deposited ₹400.0 into Account No: 2005
+[2025-10-16 18:25:18] 💰 Deposited ₹200.0 into Account No: 2005
+[2025-10-16 18:25:53] ⚠️ Deposit failed — account not found (67544)
+[2025-10-17 20:13:39] 💸 Withdrawn ₹500.0 from Account No: 2005. New balance: ₹8100.0
+[2025-10-17 20:14:14] 💸 Withdrawn ₹200.0 from Account No: 1001. New balance: ₹10900.0
+[2025-10-21 20:15:53] 💸 Withdrawn ₹10.0 from Account No: 2005. New balance: ₹8090.0
+[2025-10-24 20:28:23] 💰 Deposited ₹100.0 into Account No: 2005
+[2025-10-27 20:24:06] 🟢 New account created: raj (3456) | Email: rajofficl@gmail.com | Phone: 9087435673
+[2025-11-05 21:58:41] 🟢 New account created: selva (2006) | Email: poorayersuriya@gmail.com | Phone: 	6381044622
